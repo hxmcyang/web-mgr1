@@ -1,0 +1,53 @@
+磐石话费后台 ：http://lsgame.top:8089/cp/main.html   Harris  123456
+http://admin.xinxing-pay.com:8888/login.jspx  panshi 12345678
+
+
+newPDD
+商户地址：http://web.nanjingchulan.com
+商户账号：shiyi01
+商户密码：123456
+商户编号：11780
+接入密钥：3c2534d3ad3994cc5d56f1f603ed4ecad649aa5f
+二号请求地址：http://api.nanjingchulan.com/indexpay.php
+ip: 47.97.204.13
+
+nohup java -jar pay-controller-new-0.0.1-SNAPSHOT.jar &
+
+nohup java -jar tudouShipin.jar &
+服务器问题：技术qq4006786790
+
+
+
+本地发包：{"amount":"297","transId":"1","sign":"40981d4af6487ae06d430c90502fab13",
+"requestNo":"19299388288","timeStamp":"2020-01-04 15:39:48","merNo":"11111111111111",
+"syncUrl":"aaa","clientIp":"127.0.0.1","notifyUrl":"aaa","signType":"MD5","attach":"abcd","appUserId":"1",
+"goodsName":"testbody","bundle":"asfd","orderNo":"11"}
+http://localhost:9003/api/unifiedorder
+
+
+qq号码 3614702878   Shoot123456  VPN 密码 Tian123456  账号 tianxiaosheng@shootmedia-hk.com
+
+手机号码 13114496297
+
+回调ip 202.61.84.74,115.144.238.174
+
+Vokin Harris, [19.12.19 00:16]
+陈再兴 - 拼多多
+钻石支付
+网址：http://www.bpeax.cn 
+商户号11865 
+账号shuimitao01 
+密码123456 
+密钥db6ab75941cc4cdd2c40754f264fa1683343b797
+网关：http://api.bpeax.cn/indexpay.php
+回调ip：121.43.43.187
+
+
+https://github.com/jiang-ll
+
+300, 500, 600, 800, 900, 1000, 1200, 1500, 1600, 1800, 2000, 2100, 2400, 2500, 2700, 3000
+
+sed -n '/2020-03-10 20:00:/,/2020-03-10 24:00:/p' nohup.out > new.out
+
+http://web.sdhctyn.com:81/interface/showsec_abc.php
+
